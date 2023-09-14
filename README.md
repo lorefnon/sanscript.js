@@ -1,3 +1,5 @@
+:warning: Please use `@indic-transliteration/sanscript` instead of this fork. Changes here will be upstreamed.
+
 Sanscript.js
 =============================
 
